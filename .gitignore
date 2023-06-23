@@ -2,3 +2,6 @@ Gemfile
 Gemfile.lock
 .sass-cache/
 _site/
+asset-manifest.json
+manifest.json
+robots.txt
